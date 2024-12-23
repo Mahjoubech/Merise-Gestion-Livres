@@ -16,13 +16,13 @@ Ce projet consiste à concevoir un système de gestion de bibliothèque en suiva
 
 ## 📅 **Déroulement de l’activité**
 
-### 1️⃣ **Introduction théorique** (20 minutes)
+### 1️⃣ **Introduction théorique** 
 
 1. **MCD** : Identification des entités clés du système et de leurs relations.
 2. **MLD** : Transformation du MCD en tables relationnelles, en appliquant la normalisation et en définissant les clés primaires et étrangères.
 3. **MPD** : Ajout des types de données et des contraintes physiques (ex. : NOT NULL, UNIQUE, PRIMARY KEY, etc.).
 
-### 2️⃣ **Étude de cas : Gestion d’une bibliothèque** (20 minutes)
+### 2️⃣ **Étude de cas : Gestion d’une bibliothèque** 
 
 #### 📖 **Contexte**
 - **Utilisateur (client)** : Emprunte des livres.
@@ -37,9 +37,9 @@ Ce projet consiste à concevoir un système de gestion de bibliothèque en suiva
 
 ---
 
-## 🛠️ **Activité pratique** (1h00)
+## 🛠️ **Activité pratique**
 
-### 1️⃣ **Étape 1 : Création du MCD** (25 minutes)
+### 1️⃣ **Étape 1 : Création du MCD** 
 
 Les participants seront répartis en groupes pour :
 - Identifier les entités et leurs attributs.
@@ -48,7 +48,7 @@ Les participants seront répartis en groupes pour :
 ![image](https://github.com/user-attachments/assets/d027784d-6008-4c1b-9dd0-fb3a94e8c3d7)
 
 
-### 2️⃣ **Étape 2 : Transformation en MLD** (20 minutes)
+### 2️⃣ **Étape 2 : Transformation en MLD** 
 
 Chaque groupe, en utilisant le MCD, devra :
 - Créer les tables relationnelles correspondant aux entités.
@@ -57,7 +57,7 @@ Chaque groupe, en utilisant le MCD, devra :
 - ![image](https://github.com/user-attachments/assets/4e5721f9-710a-4a92-8176-1c1d77ad2f1e)
 
 
-### 3️⃣ **Étape 3 : Passage au MPD** (15 minutes)
+### 3️⃣ **Étape 3 : Passage au MPD** 
 
 À ce stade, chaque groupe devra :
 - Ajouter les types de données pour chaque colonne des tables (par exemple, **VARCHAR**, **INT**, **DATE**).
